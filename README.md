@@ -31,7 +31,7 @@
   - about-stars - PostgreSQL, Redis
   - bot-tests - Redis, файловая система (JSON файлы)
   - p2p-words - файловая система (бинарные файлы)
-- Github actions (кроме p2p-words)
+- Github actions
 - Средний coverage point ~ 87%
 - Docker, Nginx</p>
 <p>В некоторых проектах используются:
